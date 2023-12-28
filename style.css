@@ -17,8 +17,16 @@
     background-color: #C88568;
 }
 
+.logo img{
+    height: 30px;
+    width: 30px;
+    margin-top: 2%;
+    margin-bottom: -2%;
+    margin-left: 2%;
+}
+
 .logo i{
-    margin-left: 55%;
+    margin-left: 50%;
     color: black;
     background-color: white;
     border-radius: 50%;
@@ -41,7 +49,6 @@ hr{
 
 .chatverse{
     font-family: 'Poppins';
-    margin-left: 2%;
     font-size: 22px;
 }
 
@@ -67,6 +74,33 @@ hr{
     margin-left: 35%;
     border-bottom-left-radius: 200px;
 }
+
+.privacy-terms{
+    margin-left: 10%;
+    font-family: 'Poppins';
+    font-weight: lighter;
+}
+
+.privacy-terms h1{
+    font-size: 18px;
+    margin-top: -8%;
+    margin-left: 25%;
+    font-weight: lighter;
+}
+
+.privacy-terms h2{
+    font-size: 18px;
+    margin-top: 3%;
+    color: white;
+    font-family: 'Poppins';
+    font-weight: lighter;
+}
+
+.privacy-terms a{
+    color: red;
+    text-decoration: none;
+}
+
 
 .middle a{
     text-decoration: none;
