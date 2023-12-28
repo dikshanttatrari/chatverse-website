@@ -1,1 +1,1 @@
-chatvere-website
+chatverse-website
