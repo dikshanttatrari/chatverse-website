@@ -1,0 +1,59 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+.privacy-main{
+    height: 100vh;
+    background-color: #C88568;
+    border-bottom-left-radius: 10%;
+    border-bottom-right-radius: 10%;
+}
+
+.nav{
+    background-color: #C88568;
+}
+
+
+.nav b{
+    font-family: 'Poppins';
+    margin-left: 2%;
+    font-size: 22px;
+}
+
+.nav i{
+    margin-left: 55%;
+    color: black;
+    background-color: white;
+    border-radius: 50%;
+    border-style: solid;
+    border-color: black;
+    border-width: 2px;
+    padding: 5px;
+}
+
+.first{
+    margin-top: 10%;
+    margin-left: 10%;
+}
+
+
+.first b{
+    font-family: 'Poppins';
+    font-size: 32px;
+}
+
+.first p{
+    font-family: 'Poppins';
+    font-size: 18px;
+}
+
+.first img{
+    height: 300px;
+    width: 200px;
+    border-radius: 20px;
+    margin-top: 5%;
+    margin-left: 10%;
+    border-style: solid;
+    border-width: 4px;
+    border-color: black;
+}
